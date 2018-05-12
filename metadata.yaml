@@ -1,0 +1,27 @@
+_repo: Dialogo-sopra-la-generatione-de-venti-baleni-tuoni-fulgori-fiumi-laghi-valli-et-montagne_17986
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Agrippa, Camillo
+    gutenberg_agent_id: '7737'
+    url: http://www.gutenberg.org/2009/agents/7737
+    wikipedia: http://en.wikipedia.org/wiki/Camillo_Agrippa
+description: ''
+gutenberg_bookshelf: IT Scienza
+gutenberg_issued: '2006-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17986'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meteorology -- Early works to 1800'
+- !lcc 'QC'
+title: Dialogo sopra la generatione de venti, baleni, tuoni, fulgori, fiumi, laghi,
+  valli et montagne
+url: http://www.gutenberg.org/ebooks/17986
